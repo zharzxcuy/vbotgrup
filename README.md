@@ -42,9 +42,8 @@ Only Termux
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mancabot" />
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/n9fUrhPf5-8"><img src="https://img.shields.io/badge/YouTube-SofyanAMV09-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+
+
 
 ## Install the dependencies:
 Before running the below command, make sure you're in the project directory that
